@@ -1,0 +1,8 @@
+Thank for Using SubSimple Wordpress Theme.
+
+	i) SubSimple Wordpress Theme is Based on the Underscores Framework http://underscores.me/, (C) 2012-2013 Automattic, Inc. 
+	ii) SubSimple has been created Rohit Tripathi. You can Follow me on http://github.com/rohitink.
+	iv) It comes GNU General Public License v3. More Details about the License can be found in the license.txt file included in the theme.
+	
+*This theme doesn't use any images/fonts/javascripts for which a license is needed. All the files in this theme are part of the framework.						
+	
