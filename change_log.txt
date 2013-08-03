@@ -4,4 +4,11 @@ Version 1.0:
 
 	i) Initial Release
 	
+Version 1.1
+
+	i) Minor Bug Fixes.
+	ii) Added Styling for Heading and Tables.	
 	
+Version 1.2 
+
+	i) Improved Comment Stylings	
